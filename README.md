@@ -1,9 +1,9 @@
 # Skills2022
 This is skills practice Work for Labs
-##################################################3#
+###################################################
 # Task 1: Manage GitHub with Scritps and Document
 # Description
-Create a folder “Skills2022” and start a git repository. (Pitures in can be found in folder (Task 1)
+Create a folder “Skills2022” and start a git repository. (Pitures in can be found in folder (#Task 1)
 note: 
 1. The scripts you create in all the tasks will be copied into the repository “Skills2022” including the screenshots.
 2. Make sure that your local repository is connected to an online repository on GitHub (make your repository public so that I can evaluate the work, once you get the grades, you can make it private).
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 #Task 3: Manage Docker microservices
 
 #Description
-This work was to create a docker file to manage (ntp service). (Pitures in can be found in folder (Task 3)
+This work was to create a docker file to manage (ntp service). (Pitures in can be found in folder (#Task 3)
 #Task Implementation
 The implementation was done using window machine. It was very difficult as compare with using linux. 
 
@@ -48,14 +48,16 @@ ________________________________________________________________________________
 #Task 4: CI/CD Pipeline using Jenkins
 
 #Description
+Pipeline was develop to link downloads from github and other sources into the docker created in task 3. (Pitures in can be found in folder (#Task 4))
 
 #Task Implementation
-
+This task was also implement using windows platform. 
 
 #Troubleshooting
 
 # Varification
-____________________________________________________________________________________________________________________________________________________________________
+_
+_________________________________________________________________________________________________________________________________________________________
 #Task 5: Unit testing
 
 #Description
