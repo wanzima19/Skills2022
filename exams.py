@@ -1,5 +1,4 @@
 def factors(n):
-
     p = 2
     f = list()
     while n >= p*p :
